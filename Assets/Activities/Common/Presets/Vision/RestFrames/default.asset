@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f959308f30bf3c046bf28787e357dec8, type: 3}
+  m_Name: default
+  m_EditorClassIdentifier: 
+  nose: 0
+  nosePrefabName: Nose
+  noseColor: {r: 0, g: 0, b: 0, a: 0}
+  noseWidth: 0.393
+  noseFlatness: 0.287
+  hat: 0
+  hatPrefabName: Sombrero
+  other: 0
+  otherPrefabName: 
